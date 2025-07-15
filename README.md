@@ -1,5 +1,11 @@
 # wheat-coccinellid-detection-project
 
+Paper: https://www.sciencedirect.com/science/article/pii/S2352340924005523
+Dataset: https://data.mendeley.com/datasets/j9735xjspw/1
+Download the Wheat_Coccinellid.zip file
+
+# Use the wheat-coccinellid-detection-model.ipynb file within this repository for reference.
+
 📹 Watch the tutorial (https://youtu.be/Rn2S1SFObn4) on YouTube to install PyTorch, write python script in visual studio code, create virtual environment and test the installation of PyTorch. In addition, user will :  
 
 The following steps need to be followeed for implementing this project:

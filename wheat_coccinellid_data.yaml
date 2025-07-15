@@ -1,0 +1,8 @@
+names: [coccinellid]
+nc: 1
+test: ./wheat_coccinellid_data/train/images
+test_labels: ./wheat_coccinellid_data/train/labels
+train: ./wheat_coccinellid_data/train/images
+train_labels: ./wheat_coccinellid_data/train/labels
+val: ./wheat_coccinellid_data/train/images
+val_labels: ./wheat_coccinellid_data/train/labels

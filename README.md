@@ -13,13 +13,22 @@ Download the Wheat_Coccinellid.zip file
 The following steps need to be followeed for implementing this project:
 
 i) Make a new project on my local machine
+
 ii) Create a Virtual Environment
+
 iii) Installed PyTorch
+
 iv) Open visual studio code
+
 v) press ctrl + shift + p to select the interpreter
+
 vi) create a python file and write the script to check the installation of pyTorch and availability of CUDA
 
 Now for wheat coccinellid detection part,
+
 i) install the Jupyter extension in visual studio code
+
 ii) Install ipykernel by excuting command: pip install ipykernel
+
 iii) Press Ctrl+Shift+P to create new jupyter notebook (type: Create: New Jupyter Notebook)
+

@@ -6,7 +6,7 @@ Dataset: https://data.mendeley.com/datasets/j9735xjspw/1
 
 Download the Wheat_Coccinellid.zip file
 
-# Use the wheat-coccinellid-detection-model.ipynb file within this repository for reference.
+Now, Use the wheat-coccinellid-detection-model.ipynb file within this repository for reference.
 
 📹 Watch the tutorial (https://youtu.be/Rn2S1SFObn4) on YouTube to install PyTorch, write python script in visual studio code, create virtual environment and test the installation of PyTorch. In addition, user will :  
 
@@ -32,3 +32,4 @@ ii) Install ipykernel by excuting command: pip install ipykernel
 
 iii) Press Ctrl+Shift+P to create new jupyter notebook (type: Create: New Jupyter Notebook)
 
+Now, Use the wheat-coccinellid-detection-model.ipynb file within this repository for reference.

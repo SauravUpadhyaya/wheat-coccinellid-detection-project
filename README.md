@@ -8,7 +8,7 @@ Download the Wheat_Coccinellid.zip file
 
 Now, use the wheat-coccinellid-detection-model.ipynb file within this repository for reference.
 
-📹 Watch the tutorial (https://youtu.be/Rn2S1SFObn4) on YouTube to install PyTorch, write a Python script in Visual Studio Code, create a virtual environment, and test the installation of PyTorch. In addition, follow this steps to perform this project.
+📹 Watch the tutorial (https://youtu.be/Rn2S1SFObn4) on YouTube to install PyTorch, write a Python script in Visual Studio Code, create a virtual environment, and test the installation of PyTorch. In addition, follow the steps below to perform this project:
 
 i) Make a new project on your local machine
 
